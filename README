@@ -6,8 +6,9 @@ that with your text on the web.
 To use this plugin, wrap anything you want to be processed by it between the 
 following tag pairs. Entry titles and headline text works best.
 
-{exp:sb_betteramp}{title}{/exp:sb_betteramp}
+{exp:sb_better:amp}{title}{/exp:sb_better:amp}
 
 CHANGELOG
 -------------------------------------------------------------------------------
+1.0.1 - Reworked the plugin and improved parsing code. Hey, it actually works now!
 1.0 - Initial release
