@@ -25,7 +25,7 @@ http://creativecommons.org/licenses/by-sa/2.5/
 
 $plugin_info = array(
   'pi_name'         => "SB Better",
-  'pi_version'      => "1.0",
+  'pi_version'      => "1.0.1",
   'pi_author'       => "Scott Boms",
   'pi_author_url'   => "http://scottboms.com",
   'pi_description'  => "Improves the display of ampersands by wrapping them with "
